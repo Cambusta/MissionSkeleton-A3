@@ -1,0 +1,17 @@
+respawn = "NONE";
+ReviveRequiredItemsFakConsumed = 1;
+
+class CfgDebriefing
+{
+    class endAllObjectives
+    {
+        title = "Complete success";
+        subtitle = "All objectives completed";
+    };
+
+    class endCompleteFailure
+    {
+        title = "Complete Failure";
+        subtitle = "You failed to complete objectives";
+    };
+};

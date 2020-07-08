@@ -1,0 +1,26 @@
+[
+    {
+        "tag" : "<fh1>",
+        "content": "<font size='20' color='#fcdd76' face='PuristaBold'>"
+    },
+    {
+        "tag" : "<fh2>",
+        "content": "<font size='18' color='#ffe4e1' face='PuristaSemiBold'>"
+    },
+    {
+        "tag": "<fb>",
+        "content": "<font face='PuristaBold'>"
+    },
+    {
+        "tag": "<frcb>",
+        "content": "<font face='RobotoCondensedBold'>"
+    },
+    {
+        "tag": "<femp>",
+        "content": "<font face='EtelkaMonospacePro'>"
+    },
+    {
+        "tag" : "</f>",
+        "content": "</font>"
+    }
+]
